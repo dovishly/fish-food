@@ -1,0 +1,14 @@
+/* html {
+    background-color: black;
+} */
+.background {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
